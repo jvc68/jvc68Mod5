@@ -1,2 +1,3 @@
-# jvc68Mod5
-Repo For school
+## Making Skynet Real
+The purpose of this Project is to remake Skynet from the Terminator Series, why?
+>Because I can
